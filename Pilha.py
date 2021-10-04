@@ -29,7 +29,7 @@ class Pilha:
     def pilhaCheia(self):
         return (self.topo == self.tamanho - 1)
     
-from Mapa import Mapa
+'''from Mapa import Mapa
 mapa = Mapa()
 pilha = Pilha (5)
 
@@ -41,4 +41,4 @@ pilha.getTopo().nome
 
 pilha.desempilhar()
 
-pilha.empilhar(mapa.curitiba)
+pilha.empilhar(mapa.curitiba)'''
